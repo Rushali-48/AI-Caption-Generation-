@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+requests
+pandas
+numpy
+sentence-transformers
+scikit-learn
+catboost
+xgboost
+emoji
+textblob
+joblib
+scipy
+openai
