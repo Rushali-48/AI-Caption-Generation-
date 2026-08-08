@@ -19,7 +19,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 from langdetect import detect
 
-API_KEY = 'AIzaSyAGQfUWbTxS0lJl9wwJ3XIGqNTqbGMaghk'
+API_KEY = 'youtube api key '
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
 """# config"""
